@@ -1,0 +1,67 @@
+
+body{
+
+    font-family: 'product sans';
+}
+
+
+
+.header{
+
+    background-color: #fff;
+    width: 100%;
+    padding: 0.5% 3%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo{
+
+    font-family: 'Arizonia';
+    font-size: 23px;
+    color: #222;
+    text-decoration: none;
+}
+
+
+.btn_header{
+
+    background-color: #1A73E8;
+    color: #fff;
+    padding: 0.5% 1%;
+    border: none;
+    border-radius: 2px;
+    
+
+}
+
+.hero{
+
+    /* background-color: #1A73E8; */
+
+    background-image: url('../images/bg_hero.png');
+    width: 100%;
+    height: 1400px;
+    /* border-radius: 0% 0% 50% 30% / 0% 0% 50% 25% ; */
+    padding-top: 10%;
+}
+
+
+
+.hero_head{
+
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+.hero_images{
+
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+    
+}
